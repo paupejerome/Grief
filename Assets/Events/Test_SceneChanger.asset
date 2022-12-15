@@ -1,0 +1,163 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e97adc356fd2a774bbde615dfe3b29b0, type: 3}
+  m_Name: Test_SceneChanger
+  m_EditorClassIdentifier: 
+  steps:
+  - stepType: 0
+    dialogues:
+    - "Quel test veut tu execut\xE9?"
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 5
+  - stepType: 1
+    dialogues: []
+    choices:
+    - choiceText: Changement de scene
+      minMood: 0
+      maxMood: 100
+      overrideMoodChange: 0
+      moodChange: 0
+      overrideNextStep: 1
+      nextStep: 4
+    - choiceText: "Termin\xE9 l'event soudainement"
+      minMood: 0
+      maxMood: 100
+      overrideMoodChange: 0
+      moodChange: 0
+      overrideNextStep: 1
+      nextStep: 69
+    - choiceText: Tester un son
+      minMood: 0
+      maxMood: 100
+      overrideMoodChange: 0
+      moodChange: 0
+      overrideNextStep: 1
+      nextStep: 5
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 1
+    nextStep: 69
+  - stepType: 0
+    dialogues:
+    - Skip etape 2
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 4
+    dialogues: []
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 6
+      spawnIndex: 0
+    customStep: {fileID: 0}
+    overrideNextStep: 1
+    nextStep: 69
+  - stepType: 0
+    dialogues:
+    - 'Test du son: '
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 3
+    dialogues: []
+    choices: []
+    animations: []
+    sounds:
+    - audioClip: {fileID: 8300000, guid: 31f22ca095fd7564bbd54cb8948e0fc1, type: 3}
+      volume: 1
+      loop: 1
+      stopAtEnd: 0
+      stopAtStep: 9
+      waitForEnd: 1
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 0
+    dialogues:
+    - Le son joue encore
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 0
+    dialogues:
+    - Joue Toujours
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 0
+    dialogues:
+    - Joue encore a la step 9
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 0
+    dialogues:
+    - La step 10
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  moodChange: 0
+  requireInput: 1
+  nbTimes: 2
+  conditions: 00000000000000

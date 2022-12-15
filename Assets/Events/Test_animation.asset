@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e97adc356fd2a774bbde615dfe3b29b0, type: 3}
+  m_Name: Test_animation
+  m_EditorClassIdentifier: 
+  steps:
+  - stepType: 2
+    dialogues: []
+    choices: []
+    animations:
+    - mainCharacter: 0
+      animationClip: {fileID: 7400000, guid: e10574741742f694eba5463e3ec93842, type: 2}
+      childTransformIndex: 1
+      position: {x: 0, y: 0, z: 0}
+      flip: 0
+      applyMotion: 0
+      destination: {x: 0, y: 0, z: 0}
+      travelTime: 0
+      loop: 0
+      stopAtEnd: 1
+      stopAtStep: 0
+      playbackSpeed: 0
+      waitForEnd: 1
+    - mainCharacter: 0
+      animationClip: {fileID: 7400000, guid: 08ed6189c3756414dbc5f09d83e8b051, type: 2}
+      childTransformIndex: 1
+      position: {x: 0, y: 0, z: 0}
+      flip: 1
+      applyMotion: 0
+      destination: {x: 0, y: 0, z: 0}
+      travelTime: 0
+      loop: 1
+      stopAtEnd: 0
+      stopAtStep: 3
+      playbackSpeed: 0
+      waitForEnd: 0
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 0
+    dialogues:
+    - text: Done
+      italic: 0
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 2
+    dialogues: []
+    choices: []
+    animations:
+    - mainCharacter: 0
+      animationClip: {fileID: 7400000, guid: 853a98fb53267f2498a316cceb63db93, type: 2}
+      childTransformIndex: 1
+      position: {x: 15, y: 0, z: 0}
+      flip: 0
+      applyMotion: 0
+      destination: {x: 0, y: 0, z: 0}
+      travelTime: 0
+      loop: 0
+      stopAtEnd: 1
+      stopAtStep: 0
+      playbackSpeed: 0
+      waitForEnd: 1
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  moodChange: 0
+  requireInput: 0
+  nbTimes: 1
+  conditions: 00000000000000

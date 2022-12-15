@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5850023965390093812
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 312478536671261703}
+  - component: {fileID: 8652244538480203515}
+  m_Layer: 0
+  m_Name: CollegueShowUp
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &312478536671261703
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5850023965390093812}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.0149217, y: 0.52784896, z: -4.1072407}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8652244538480203515
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5850023965390093812}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d1422373ef284a459209fda5ebb59d2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  npc: {fileID: 6207211131535029459, guid: fa7b2559cc51d5d40b19f1e2742d9164, type: 3}
+  walkAnimation: {fileID: 7400000, guid: 853a98fb53267f2498a316cceb63db93, type: 2}
+  idleAnimation: {fileID: 7400000, guid: 9e5295a9ddf232a4491595d445b8cf16, type: 2}
+  needToBeFlip: 1
+  distanceToSpawn: 22

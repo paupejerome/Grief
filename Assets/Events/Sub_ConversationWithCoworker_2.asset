@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e97adc356fd2a774bbde615dfe3b29b0, type: 3}
+  m_Name: Sub_ConversationWithCoworker_2
+  m_EditorClassIdentifier: 
+  steps:
+  - stepType: 5
+    dialogues: []
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 1357755299682595957, guid: 5adc88c503ca963418f09abd23439071, type: 3}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 0
+    dialogues:
+    - text: Hey young'un, I hope you're feel alright today, the boss is pretty upset,
+        if you haven't noticed. Hahaha
+      italic: 0
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 1
+    dialogues: []
+    choices:
+    - choiceText: ...
+      minMood: 0
+      maxMood: 100
+      overrideMoodChange: 0
+      moodChange: 0
+      overrideNextStep: 0
+      nextStep: 0
+    - choiceText: I noticed, I do hope he's not angry at me!
+      minMood: 0
+      maxMood: 100
+      overrideMoodChange: 0
+      moodChange: 0
+      overrideNextStep: 0
+      nextStep: 0
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 0
+    dialogues:
+    - text: Don't take this too personally, he wont fire you that easily... I hope!
+        Hohoho
+      italic: 0
+    - text: Just don't throw it all away, alright?
+      italic: 0
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 5
+    dialogues: []
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 3968479234180175178, guid: 8c541a5bb1b3c314ca7783cebfcdc28a, type: 3}
+    overrideNextStep: 0
+    nextStep: 0
+  moodChange: 8
+  requireInput: 0
+  nbTimes: 1
+  requiredEvents:
+  - {fileID: 11400000, guid: fbe7a5aa94f15a743b3be7d14e3f6392, type: 2}
+  conditions: 000001000000

@@ -1,0 +1,1044 @@
+fileFormatVersion: 2
+guid: 6689be8e189b63c46944120d2a5a7faf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3677100271456180813
+    second: officeSuppliesBetter_0
+  - first:
+      213: 4934661448888066154
+    second: officeSuppliesBetter_1
+  - first:
+      213: 6169612171185745789
+    second: officeSuppliesBetter_2
+  - first:
+      213: 4756524912538040033
+    second: officeSuppliesBetter_3
+  - first:
+      213: 7066518392818921913
+    second: officeSuppliesBetter_4
+  - first:
+      213: -8963508247301602918
+    second: officeSuppliesBetter_5
+  - first:
+      213: 7471621314323412090
+    second: officeSuppliesBetter_6
+  - first:
+      213: 2754409007795039063
+    second: officeSuppliesBetter_7
+  - first:
+      213: 7833700258053534069
+    second: officeSuppliesBetter_8
+  - first:
+      213: -2501724958008085165
+    second: officeSuppliesBetter_9
+  - first:
+      213: -6347727955018115514
+    second: officeSuppliesBetter_10
+  - first:
+      213: -585394561747379931
+    second: officeSuppliesBetter_11
+  - first:
+      213: -8337986487095988083
+    second: officeSuppliesBetter_12
+  - first:
+      213: 2164006398871289978
+    second: officeSuppliesBetter_13
+  - first:
+      213: -7356234331916119736
+    second: officeSuppliesBetter_14
+  - first:
+      213: 2925796624370199645
+    second: officeSuppliesBetter_15
+  - first:
+      213: -1868439334835366789
+    second: officeSuppliesBetter_16
+  - first:
+      213: 8973082877567337724
+    second: officeSuppliesBetter_17
+  - first:
+      213: -2325331393954682191
+    second: officeSuppliesBetter_18
+  - first:
+      213: -4087654990781179543
+    second: officeSuppliesBetter_19
+  - first:
+      213: 7014238428205125907
+    second: officeSuppliesBetter_20
+  - first:
+      213: -3922987469656397103
+    second: officeSuppliesBetter_21
+  - first:
+      213: 777958147289579963
+    second: officeSuppliesBetter_22
+  - first:
+      213: 4591581259946300481
+    second: officeSuppliesBetter_23
+  - first:
+      213: -735632607434640334
+    second: officeSuppliesBetter_24
+  - first:
+      213: -4793042979759430385
+    second: officeSuppliesBetter_25
+  - first:
+      213: -7511223156665781882
+    second: officeSuppliesBetter_26
+  - first:
+      213: -5630691168525250104
+    second: officeSuppliesBetter_27
+  - first:
+      213: -982312824465268697
+    second: officeSuppliesBetter_28
+  - first:
+      213: 4903803159259788203
+    second: officeSuppliesBetter_29
+  - first:
+      213: 2642714148354299573
+    second: officeSuppliesBetter_30
+  - first:
+      213: -4004194426215803633
+    second: officeSuppliesBetter_31
+  - first:
+      213: -4661957921671001206
+    second: officeSuppliesBetter_32
+  - first:
+      213: 56508791713063670
+    second: officeSuppliesBetter_33
+  - first:
+      213: -7262532635646348014
+    second: officeSuppliesBetter_34
+  - first:
+      213: -8166808776573373105
+    second: officeSuppliesBetter_35
+  - first:
+      213: -3917341833838698446
+    second: officeSuppliesBetter_36
+  - first:
+      213: 6011074814939235805
+    second: officeSuppliesBetter_37
+  - first:
+      213: -4475489633777133517
+    second: officeSuppliesBetter_38
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: officeSuppliesBetter_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 121
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5ac5409c058fcc0800000000000000
+      internalID: -3677100271456180813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: officeSuppliesBetter_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 121
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60a9cb51707b7440800000000000000
+      internalID: 4934661448888066154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: officeSuppliesBetter_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 121
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fe379e49dde9550800000000000000
+      internalID: 6169612171185745789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: officeSuppliesBetter_3
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 105
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e63021f432920240800000000000000
+      internalID: 4756524912538040033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: officeSuppliesBetter_4
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 121
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b17cbac901511260800000000000000
+      internalID: 7066518392818921913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: officeSuppliesBetter_5
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 105
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91cd426db83b9380800000000000000
+      internalID: -8963508247301602918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: officeSuppliesBetter_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 89
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74fb70cff780b760800000000000000
+      internalID: 7471621314323412090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: officeSuppliesBetter_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 58
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b62cb2660a93620800000000000000
+      internalID: 2754409007795039063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: officeSuppliesBetter_8
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 80
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571ba2641e4e6bc60800000000000000
+      internalID: 7833700258053534069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: officeSuppliesBetter_9
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 110
+        width: 12
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355f238c766184dd0800000000000000
+      internalID: -2501724958008085165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: officeSuppliesBetter_10
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 83
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646145e7e0758e7a0800000000000000
+      internalID: -6347727955018115514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: officeSuppliesBetter_11
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 86
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5291a956fb240e7f0800000000000000
+      internalID: -585394561747379931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: officeSuppliesBetter_12
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 85
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80f2ae6775894c80800000000000000
+      internalID: -8337986487095988083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: officeSuppliesBetter_13
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 89
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a704568ba58180e10800000000000000
+      internalID: 2164006398871289978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: officeSuppliesBetter_14
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 52
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8415b91a9d769e990800000000000000
+      internalID: -7356234331916119736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: officeSuppliesBetter_15
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 51
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c6f9047848a9820800000000000000
+      internalID: 2925796624370199645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: officeSuppliesBetter_16
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 56
+        width: 8
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7455ca0358f116e0800000000000000
+      internalID: -1868439334835366789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: officeSuppliesBetter_17
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 56
+        width: 8
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf48a81f55bc68c70800000000000000
+      internalID: 8973082877567337724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: officeSuppliesBetter_18
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 83
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba6446da63cabfd0800000000000000
+      internalID: -2325331393954682191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: officeSuppliesBetter_19
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 73
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9699226717bb547c0800000000000000
+      internalID: -4087654990781179543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: officeSuppliesBetter_20
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3119f0bffa4975160800000000000000
+      internalID: 7014238428205125907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: officeSuppliesBetter_21
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 50
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da62d46eafbe89c0800000000000000
+      internalID: -3922987469656397103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: officeSuppliesBetter_22
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 38
+        width: 16
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1015b20dcdbca00800000000000000
+      internalID: 777958147289579963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: officeSuppliesBetter_23
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 38
+        width: 16
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144907424d298bf30800000000000000
+      internalID: 4591581259946300481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: officeSuppliesBetter_24
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 60
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234f9a48a028ac5f0800000000000000
+      internalID: -735632607434640334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: officeSuppliesBetter_25
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 30
+        width: 16
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f056246fdc0bb7db0800000000000000
+      internalID: -4793042979759430385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: officeSuppliesBetter_26
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 56
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6817f3ec556c2c790800000000000000
+      internalID: -7511223156665781882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: officeSuppliesBetter_27
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 56
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c19f140734cbd1b0800000000000000
+      internalID: -5630691168525250104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: officeSuppliesBetter_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 8
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720ef6fc0bf1e52f0800000000000000
+      internalID: -982312824465268697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: officeSuppliesBetter_29
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 8
+        width: 80
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba33e1cedfecd0440800000000000000
+      internalID: 4903803159259788203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: officeSuppliesBetter_30
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b69e87248ecca420800000000000000
+      internalID: 2642714148354299573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: officeSuppliesBetter_31
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 6
+        width: 16
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05decd626e3e68c0800000000000000
+      internalID: -4004194426215803633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: officeSuppliesBetter_32
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 6
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b4bf868f56d4fb0800000000000000
+      internalID: -4661957921671001206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: officeSuppliesBetter_33
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 6
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f26eb85272c8c000800000000000000
+      internalID: 56508791713063670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: officeSuppliesBetter_34
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 7
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2153e92eb0d463b90800000000000000
+      internalID: -7262532635646348014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: officeSuppliesBetter_35
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 17
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f453dc3ffaaa9ae80800000000000000
+      internalID: -8166808776573373105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: officeSuppliesBetter_36
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 89
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230644a6b5ec2a9c0800000000000000
+      internalID: -3917341833838698446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: officeSuppliesBetter_37
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 110
+        width: 28
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd500c632b0ab6350800000000000000
+      internalID: 6011074814939235805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: officeSuppliesBetter_38
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 83
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33855c6e3edd3e1c0800000000000000
+      internalID: -4475489633777133517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

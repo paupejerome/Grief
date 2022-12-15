@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &320986243409433395
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 320986243409433393}
+  - component: {fileID: 320986243409433392}
+  m_Layer: 0
+  m_Name: FriendWalkIn
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &320986243409433393
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 320986243409433395}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 4.315565, y: -0.9879978, z: -1.1933494}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &320986243409433392
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 320986243409433395}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d1422373ef284a459209fda5ebb59d2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  npc: {fileID: 1866522187088710861, guid: a95f158179de62f44965cba997efeffc, type: 3}
+  walkAnimation: {fileID: 7400000, guid: 34a7d6f3d4270eb4b9199e64d91ab025, type: 2}
+  idleAnimation: {fileID: 7400000, guid: 03b15fc1a2398334a842b0512d999d9a, type: 2}
+  needToBeFlip: 0
+  distanceToSpawn: 20

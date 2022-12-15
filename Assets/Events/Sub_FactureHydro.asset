@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e97adc356fd2a774bbde615dfe3b29b0, type: 3}
+  m_Name: Sub_FactureHydro
+  m_EditorClassIdentifier: 
+  steps:
+  - stepType: 0
+    dialogues:
+    - text: Well, this month's electricity bill is even higher than the last.
+      italic: 1
+    - text: I really should play less videogames shouldn't I...
+      italic: 1
+    - text: ...
+      italic: 1
+    - text: I... have to get rid of all those two-player games too...
+      italic: 0
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  moodChange: -8
+  requireInput: 0
+  nbTimes: 1
+  requiredEvents: []
+  conditions: 000000000000

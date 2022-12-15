@@ -1,0 +1,3864 @@
+fileFormatVersion: 2
+guid: b00e4c6ac160c7940b174f2eeb3de40d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: BarbecueGrill_0
+  - first:
+      213: 21300002
+    second: Bed 0
+  - first:
+      213: 21300004
+    second: Bed 1
+  - first:
+      213: 21300006
+    second: Cabinet 0
+  - first:
+      213: 21300008
+    second: Cabinet 1
+  - first:
+      213: 21300010
+    second: DrawingBoard 0
+  - first:
+      213: 21300012
+    second: DrawingBoard 1
+  - first:
+      213: 21300014
+    second: Photo Frame
+  - first:
+      213: 21300016
+    second: Sofa 0
+  - first:
+      213: 21300018
+    second: Sofa 3
+  - first:
+      213: 21300020
+    second: Sofa 6
+  - first:
+      213: 21300022
+    second: Sofa 9
+  - first:
+      213: 21300024
+    second: TV 0
+  - first:
+      213: 21300026
+    second: TV 1
+  - first:
+      213: 21300028
+    second: Vase 0
+  - first:
+      213: 21300030
+    second: Vase 1
+  - first:
+      213: 21300032
+    second: BarbecueGrill_1
+  - first:
+      213: 21300034
+    second: Byobu
+  - first:
+      213: 21300036
+    second: Computer 0
+  - first:
+      213: 21300038
+    second: Computer 1
+  - first:
+      213: 21300040
+    second: Sofa 1
+  - first:
+      213: 21300042
+    second: Sofa 4
+  - first:
+      213: 21300044
+    second: Sofa 7
+  - first:
+      213: 21300046
+    second: Sofa 10
+  - first:
+      213: 21300048
+    second: TV 2
+  - first:
+      213: 21300050
+    second: TV 3
+  - first:
+      213: 21300052
+    second: Bed 2
+  - first:
+      213: 21300054
+    second: Bed 3
+  - first:
+      213: 21300056
+    second: Chair 0
+  - first:
+      213: 21300058
+    second: Chair 1
+  - first:
+      213: 21300060
+    second: Chair 4
+  - first:
+      213: 21300062
+    second: Chair 5
+  - first:
+      213: 21300064
+    second: Chair 6
+  - first:
+      213: 21300066
+    second: Chair 7
+  - first:
+      213: 21300068
+    second: Chair 8
+  - first:
+      213: 21300070
+    second: Chair 9
+  - first:
+      213: 21300072
+    second: Chair 10
+  - first:
+      213: 21300074
+    second: Chair 11
+  - first:
+      213: 21300076
+    second: Sofa 2
+  - first:
+      213: 21300078
+    second: Sofa 5
+  - first:
+      213: 21300080
+    second: Sofa 8
+  - first:
+      213: 21300082
+    second: Sofa 11
+  - first:
+      213: 21300084
+    second: Table 0
+  - first:
+      213: 21300086
+    second: Chair 2
+  - first:
+      213: 21300088
+    second: Chair 3
+  - first:
+      213: 21300090
+    second: Table 6
+  - first:
+      213: 21300092
+    second: Table 5
+  - first:
+      213: 21300094
+    second: Table 4
+  - first:
+      213: 21300096
+    second: Table 3
+  - first:
+      213: 21300098
+    second: TV 4
+  - first:
+      213: 21300100
+    second: TV 5
+  - first:
+      213: 21300102
+    second: Table 1
+  - first:
+      213: 21300104
+    second: Chair 12
+  - first:
+      213: 21300106
+    second: Chair 13
+  - first:
+      213: 21300108
+    second: Chair 14
+  - first:
+      213: 21300110
+    second: Chair 16
+  - first:
+      213: 21300112
+    second: Chair 17
+  - first:
+      213: 21300114
+    second: Chair 18
+  - first:
+      213: 21300116
+    second: Chair 19
+  - first:
+      213: 21300118
+    second: Chair 20
+  - first:
+      213: 21300120
+    second: Chair 21
+  - first:
+      213: 21300122
+    second: Chair 22
+  - first:
+      213: 21300124
+    second: Chair 23
+  - first:
+      213: 21300126
+    second: Chair 24
+  - first:
+      213: 21300128
+    second: Table 2
+  - first:
+      213: 21300130
+    second: Bed 4
+  - first:
+      213: 21300132
+    second: Cabinet 2
+  - first:
+      213: 21300134
+    second: Cabinet 3
+  - first:
+      213: 21300136
+    second: Cabinet 4
+  - first:
+      213: 21300138
+    second: Cabinet 5
+  - first:
+      213: 21300140
+    second: Cabinet 6
+  - first:
+      213: 21300142
+    second: Chair 15
+  - first:
+      213: 21300144
+    second: Clock 0
+  - first:
+      213: 21300146
+    second: Clock 1
+  - first:
+      213: 21300148
+    second: Clock 2
+  - first:
+      213: 21300150
+    second: Chair 27
+  - first:
+      213: 21300152
+    second: Chair 28
+  - first:
+      213: 21300154
+    second: Table 7
+  - first:
+      213: 21300156
+    second: Table 8
+  - first:
+      213: 21300158
+    second: Table 9
+  - first:
+      213: 21300160
+    second: Table 10
+  - first:
+      213: 21300162
+    second: TV 6
+  - first:
+      213: 21300164
+    second: TV 7
+  - first:
+      213: 21300166
+    second: Chair 25
+  - first:
+      213: 21300168
+    second: Chair 26
+  - first:
+      213: 21300170
+    second: Table 11
+  - first:
+      213: 21300172
+    second: Table 12
+  - first:
+      213: 21300174
+    second: Table 13
+  - first:
+      213: 21300176
+    second: Table 14
+  - first:
+      213: 21300178
+    second: Bed 5
+  - first:
+      213: 21300180
+    second: Cabinet 7
+  - first:
+      213: 21300182
+    second: Cabinet 8
+  - first:
+      213: 21300184
+    second: Chair 29
+  - first:
+      213: 21300186
+    second: Chair 30
+  - first:
+      213: 21300188
+    second: Chair 31
+  - first:
+      213: 21300190
+    second: Chair 32
+  - first:
+      213: 21300192
+    second: Chair 33
+  - first:
+      213: 21300194
+    second: Chair 34
+  - first:
+      213: 21300196
+    second: Basket 0
+  - first:
+      213: 21300198
+    second: Chair 38
+  - first:
+      213: 21300200
+    second: Chair 39
+  - first:
+      213: 21300202
+    second: Table 15
+  - first:
+      213: 21300204
+    second: Table 16
+  - first:
+      213: 21300206
+    second: Table 17
+  - first:
+      213: 21300208
+    second: Table 18
+  - first:
+      213: 21300210
+    second: Chair 35
+  - first:
+      213: 21300212
+    second: Chair 36
+  - first:
+      213: 21300214
+    second: Chair 37
+  - first:
+      213: 21300216
+    second: Table 26
+  - first:
+      213: 21300218
+    second: Table 19
+  - first:
+      213: 21300220
+    second: Table 20
+  - first:
+      213: 21300222
+    second: Table 21
+  - first:
+      213: 21300224
+    second: Table 22
+  - first:
+      213: 21300226
+    second: Clock 3
+  - first:
+      213: 21300228
+    second: Clock 4
+  - first:
+      213: 21300230
+    second: Cabinet 9
+  - first:
+      213: 21300232
+    second: Table 27
+  - first:
+      213: 21300234
+    second: Table 29
+  - first:
+      213: 21300236
+    second: Basket 1
+  - first:
+      213: 21300238
+    second: Table 31
+  - first:
+      213: 21300240
+    second: Cabinet 11
+  - first:
+      213: 21300242
+    second: Music Box 0
+  - first:
+      213: 21300244
+    second: Music Box 1
+  - first:
+      213: 21300246
+    second: TV 8
+  - first:
+      213: 21300248
+    second: TV 9
+  - first:
+      213: 21300250
+    second: Flower 0
+  - first:
+      213: 21300252
+    second: Table 28
+  - first:
+      213: 21300254
+    second: Table 30
+  - first:
+      213: 21300256
+    second: Table 25
+  - first:
+      213: 21300258
+    second: Table 24
+  - first:
+      213: 21300260
+    second: Jar
+  - first:
+      213: 21300262
+    second: Table 32
+  - first:
+      213: 21300264
+    second: Cabinet 10
+  - first:
+      213: 21300266
+    second: Sofa 12
+  - first:
+      213: 21300268
+    second: Sofa 13
+  - first:
+      213: 21300270
+    second: Fan 0
+  - first:
+      213: 21300272
+    second: Fan 1
+  - first:
+      213: 21300274
+    second: Fan 3
+  - first:
+      213: 21300276
+    second: Fan 4
+  - first:
+      213: 21300278
+    second: Fridge 0
+  - first:
+      213: 21300280
+    second: Fridge 1
+  - first:
+      213: 21300282
+    second: Piano 0
+  - first:
+      213: 21300284
+    second: Piano 1
+  - first:
+      213: 21300286
+    second: Chair 41
+  - first:
+      213: 21300288
+    second: Music Box 2
+  - first:
+      213: 21300290
+    second: Music Box 3
+  - first:
+      213: 21300292
+    second: Music Box 4
+  - first:
+      213: 21300294
+    second: Music Box 5
+  - first:
+      213: 21300296
+    second: Sofa 14
+  - first:
+      213: 21300298
+    second: Sofa 15
+  - first:
+      213: 21300300
+    second: Table 23
+  - first:
+      213: 21300302
+    second: Chair 40
+  - first:
+      213: 21300304
+    second: Flower 1
+  - first:
+      213: 21300306
+    second: Fan 2
+  - first:
+      213: 21300308
+    second: Furniture_0
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 18
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BarbecueGrill_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 106
+        width: 12
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarbecueGrill_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 93
+        width: 19
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basket 0
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 55
+        width: 9
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e305410000000000800000000000000
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basket 1
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 47
+        width: 13
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0405410000000000800000000000000
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bed 0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 102
+        width: 19
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bed 1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 102
+        width: 35
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bed 2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 80
+        width: 13
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bed 3
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 80
+        width: 13
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bed 4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 67
+        width: 27
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bed 5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 54
+        width: 27
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d305410000000000800000000000000
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byobu
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 78
+        width: 42
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cabinet 0
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 94
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cabinet 1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 94
+        width: 7
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cabinet 2
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 67
+        width: 7
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cabinet 3
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 67
+        width: 7
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cabinet 4
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 67
+        width: 6
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cabinet 5
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 54
+        width: 13
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cabinet 6
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 54
+        width: 8
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cabinet 7
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 56
+        width: 9
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d305410000000000800000000000000
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cabinet 8
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 56
+        width: 14
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d305410000000000800000000000000
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cabinet 9
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 45
+        width: 9
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60405410000000000800000000000000
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cabinet 10
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 7
+        width: 10
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82405410000000000800000000000000
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cabinet 11
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 21
+        width: 45
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01405410000000000800000000000000
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair 0
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 84
+        width: 6
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair 1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 84
+        width: 12
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair 2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 84
+        width: 4
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair 3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 84
+        width: 4
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair 4
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 84
+        width: 4
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair 5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 84
+        width: 4
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair 6
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 84
+        width: 4
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair 7
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 84
+        width: 4
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair 8
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 84
+        width: 4
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair 9
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 84
+        width: 4
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair 10
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 84
+        width: 7
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair 11
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 84
+        width: 7
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair 12
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 74
+        width: 6
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair 13
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 74
+        width: 6
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair 14
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 79
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair 15
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 74
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair 16
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 76
+        width: 4
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair 17
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 76
+        width: 4
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair 18
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 76
+        width: 4
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair 19
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 76
+        width: 4
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair 20
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 76
+        width: 4
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair 21
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 76
+        width: 4
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair 22
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 76
+        width: 5
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair 23
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 69
+        width: 7
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair 24
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 69
+        width: 7
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair 25
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 69
+        width: 6
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c305410000000000800000000000000
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair 26
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 69
+        width: 8
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c305410000000000800000000000000
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair 27
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 63
+        width: 6
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b305410000000000800000000000000
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair 28
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 63
+        width: 5
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair 29
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 60
+        width: 5
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d305410000000000800000000000000
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair 30
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 60
+        width: 5
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad305410000000000800000000000000
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair 31
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 60
+        width: 5
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd305410000000000800000000000000
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair 32
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 60
+        width: 5
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed305410000000000800000000000000
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair 33
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 60
+        width: 5
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e305410000000000800000000000000
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair 34
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 60
+        width: 5
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e305410000000000800000000000000
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair 35
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 55
+        width: 6
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f305410000000000800000000000000
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair 36
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 55
+        width: 6
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f305410000000000800000000000000
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair 37
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 55
+        width: 6
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f305410000000000800000000000000
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair 38
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 55
+        width: 7
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e305410000000000800000000000000
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair 39
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 55
+        width: 6
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e305410000000000800000000000000
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair 40
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1
+        width: 17
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4405410000000000800000000000000
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair 41
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 9
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3405410000000000800000000000000
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clock 0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 69
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clock 1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 69
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b305410000000000800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clock 2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 69
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clock 3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 23
+        width: 11
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20405410000000000800000000000000
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clock 4
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 23
+        width: 11
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40405410000000000800000000000000
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computer 0
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 94
+        width: 9
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computer 1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 94
+        width: 8
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawingBoard 0
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 94
+        width: 12
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawingBoard 1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 94
+        width: 8
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fan 0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 11
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2405410000000000800000000000000
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fan 1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 15
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03405410000000000800000000000000
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fan 2
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 15
+        width: 2
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25405410000000000800000000000000
+      internalID: 21300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fan 3
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1
+        width: 11
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23405410000000000800000000000000
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fan 4
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1
+        width: 7
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43405410000000000800000000000000
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower 0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 36
+        width: 3
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1405410000000000800000000000000
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower 1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 35
+        width: 5
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05405410000000000800000000000000
+      internalID: 21300304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fridge 0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1
+        width: 11
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63405410000000000800000000000000
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fridge 1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1
+        width: 9
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83405410000000000800000000000000
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1
+        width: 9
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45405410000000000800000000000000
+      internalID: 21300308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jar
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 17
+        width: 11
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42405410000000000800000000000000
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 0
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 37
+        width: 7
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21405410000000000800000000000000
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 1
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 41
+        width: 5
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41405410000000000800000000000000
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 2
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 9
+        width: 9
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04405410000000000800000000000000
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 9
+        width: 6
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24405410000000000800000000000000
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 7
+        width: 11
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44405410000000000800000000000000
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box 5
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 7
+        width: 7
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64405410000000000800000000000000
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Photo Frame
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 104
+        width: 15
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piano 0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1
+        width: 26
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3405410000000000800000000000000
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piano 1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3405410000000000800000000000000
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sofa 0
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 108
+        width: 16
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sofa 1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 97
+        width: 16
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sofa 2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 86
+        width: 16
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sofa 3
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 108
+        width: 8
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sofa 4
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 97
+        width: 8
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sofa 5
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 86
+        width: 8
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sofa 6
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 109
+        width: 16
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sofa 7
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 99
+        width: 16
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sofa 8
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 89
+        width: 16
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sofa 9
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 109
+        width: 7
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sofa 10
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 99
+        width: 7
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sofa 11
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 89
+        width: 7
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sofa 12
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 19
+        width: 27
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2405410000000000800000000000000
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sofa 13
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 19
+        width: 12
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2405410000000000800000000000000
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sofa 14
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 6
+        width: 36
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84405410000000000800000000000000
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sofa 15
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 6
+        width: 12
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4405410000000000800000000000000
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table 0
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 91
+        width: 16
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table 1
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 84
+        width: 16
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table 2
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 77
+        width: 16
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table 3
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 79
+        width: 16
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table 4
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 79
+        width: 8
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table 5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 79
+        width: 16
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table 6
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 79
+        width: 14
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table 7
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 72
+        width: 8
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab305410000000000800000000000000
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table 8
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 72
+        width: 14
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb305410000000000800000000000000
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table 9
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 72
+        width: 10
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb305410000000000800000000000000
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table 10
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 72
+        width: 16
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c305410000000000800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table 11
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 65
+        width: 8
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac305410000000000800000000000000
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table 12
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 65
+        width: 14
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc305410000000000800000000000000
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table 13
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 65
+        width: 14
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec305410000000000800000000000000
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table 14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 65
+        width: 16
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d305410000000000800000000000000
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table 15
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 58
+        width: 8
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae305410000000000800000000000000
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table 16
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 58
+        width: 14
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce305410000000000800000000000000
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table 17
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 58
+        width: 16
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee305410000000000800000000000000
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table 18
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 58
+        width: 16
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f305410000000000800000000000000
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table 19
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 51
+        width: 16
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af305410000000000800000000000000
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table 20
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 51
+        width: 8
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf305410000000000800000000000000
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table 21
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 51
+        width: 16
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef305410000000000800000000000000
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table 22
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 51
+        width: 16
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00405410000000000800000000000000
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table 23
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 9
+        width: 41
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4405410000000000800000000000000
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table 24
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 37
+        width: 26
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22405410000000000800000000000000
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table 25
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 36
+        width: 31
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02405410000000000800000000000000
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table 26
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 47
+        width: 15
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f305410000000000800000000000000
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table 27
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 39
+        width: 45
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80405410000000000800000000000000
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table 28
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 25
+        width: 44
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1405410000000000800000000000000
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table 29
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 39
+        width: 13
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0405410000000000800000000000000
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table 30
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 25
+        width: 13
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1405410000000000800000000000000
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table 31
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 48
+        width: 10
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0405410000000000800000000000000
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table 32
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 25
+        width: 26
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62405410000000000800000000000000
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV 0
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 102
+        width: 12
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV 1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 102
+        width: 12
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV 2
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 90
+        width: 12
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV 3
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 90
+        width: 10
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV 4
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 76
+        width: 16
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV 5
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 76
+        width: 4
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV 6
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 55
+        width: 29
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c305410000000000800000000000000
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV 7
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 55
+        width: 10
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c305410000000000800000000000000
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV 8
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 34
+        width: 21
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61405410000000000800000000000000
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TV 9
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 34
+        width: 8
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81405410000000000800000000000000
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vase 0
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 103
+        width: 6
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vase 1
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 98
+        width: 10
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

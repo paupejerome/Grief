@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e97adc356fd2a774bbde615dfe3b29b0, type: 3}
+  m_Name: Main_ManqueBus
+  m_EditorClassIdentifier: 
+  steps:
+  - stepType: 5
+    dialogues: []
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 3907397779537860394, guid: 97aea13f2cb96e5439f13d845fd6f157, type: 3}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 0
+    dialogues:
+    - text: No no no come on! The bus had to pass on time today of all days!
+      italic: 1
+    - text: Now I have to walk all the way to work.
+      italic: 1
+    - text: let's hope the boss won't be too angry.
+      italic: 1
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 4
+    dialogues: []
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 7
+      spawnIndex: 0
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 5
+    dialogues: []
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 7620365097293893443, guid: 594114d95c9498446885c23c063825f1, type: 3}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 0
+    dialogues:
+    - text: Finally, you got here!
+      italic: 0
+    - text: Make sure there's no next time.
+      italic: 0
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 5
+    dialogues: []
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 688310269392284079, guid: a60096e20bdb7534bb5b43d70d98d3f7, type: 3}
+    overrideNextStep: 1
+    nextStep: 9
+  - stepType: 2
+    dialogues: []
+    choices: []
+    animations:
+    - mainCharacter: 0
+      animationClip: {fileID: 7400000, guid: 4dedc0b1ff26bf54888193f8cee9e28f, type: 2}
+      position: {x: 6, y: -1, z: 0}
+      flip: 0
+      applyMotion: 1
+      destination: {x: -6, y: -1, z: 0}
+      travelTime: 1
+      loop: 0
+      stopAtEnd: 1
+      stopAtStep: 0
+      playbackSpeed: 1
+      waitForEnd: 0
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 7620365097293893443, guid: 594114d95c9498446885c23c063825f1, type: 3}
+    overrideNextStep: 0
+    nextStep: 0
+  moodChange: -30
+  requireInput: 0
+  nbTimes: 1
+  requiredEvents: []
+  conditions: 010001000000

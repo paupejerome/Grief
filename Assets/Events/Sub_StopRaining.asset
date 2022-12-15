@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e97adc356fd2a774bbde615dfe3b29b0, type: 3}
+  m_Name: Sub_StopRaining
+  m_EditorClassIdentifier: 
+  steps:
+  - stepType: 5
+    dialogues: []
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 6588765442875345026, guid: f601b77c6e960c544b2399d45c17f0fe, type: 3}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 0
+    dialogues:
+    - text: "La pluie est termin\xE9, enfin"
+      italic: 1
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  moodChange: 10
+  requireInput: 0
+  nbTimes: 2
+  requiredEvents: []
+  conditions: 000000000001

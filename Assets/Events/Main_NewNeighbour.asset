@@ -1,0 +1,250 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e97adc356fd2a774bbde615dfe3b29b0, type: 3}
+  m_Name: Main_NewNeighbour
+  m_EditorClassIdentifier: 
+  steps:
+  - stepType: 2
+    dialogues: []
+    choices: []
+    animations:
+    - mainCharacter: 0
+      animationClip: {fileID: 7400000, guid: 5abc83609e3640846ae44659c025f3ea, type: 2}
+      position: {x: 40.6, y: 1.93, z: 0}
+      flip: 1
+      applyMotion: 1
+      destination: {x: 7.73, y: -1.08, z: 0}
+      travelTime: 4
+      loop: 0
+      stopAtEnd: 1
+      stopAtStep: 0
+      playbackSpeed: 1
+      waitForEnd: 1
+    - mainCharacter: 0
+      animationClip: {fileID: 7400000, guid: a2e8853fb2da00a4085797b817a627d3, type: 2}
+      position: {x: 7.73, y: -1.08, z: 0}
+      flip: 1
+      applyMotion: 0
+      destination: {x: 0, y: 0, z: 0}
+      travelTime: 1
+      loop: 1
+      stopAtEnd: 0
+      stopAtStep: 10
+      playbackSpeed: 1
+      waitForEnd: 1
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 0
+    dialogues:
+    - text: Hey there! Looks like you're my new neighbour.
+      italic: 0
+    - text: Im new in this neighbourhood, just bought this wonderful house!
+      italic: 0
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 1
+    dialogues: []
+    choices:
+    - choiceText: Hey there! Welcome to the neighbourhood. There isn't much activity
+        around here but you're free to ask me anything!
+      minMood: 75
+      maxMood: 100
+      overrideMoodChange: 0
+      moodChange: 0
+      overrideNextStep: 1
+      nextStep: 7
+    - choiceText: Hey there, welcome to the neighbourhood!
+      minMood: 0
+      maxMood: 75
+      overrideMoodChange: 0
+      moodChange: 0
+      overrideNextStep: 1
+      nextStep: 7
+    - choiceText: Sorry, I haven't got the time to talk.
+      minMood: 0
+      maxMood: 50
+      overrideMoodChange: 1
+      moodChange: -10
+      overrideNextStep: 0
+      nextStep: 0
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 1
+    nextStep: 7
+  - stepType: 0
+    dialogues:
+    - text: hey wait a second! At least tell me your name!
+      italic: 0
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 2
+    dialogues: []
+    choices: []
+    animations:
+    - mainCharacter: 1
+      animationClip: {fileID: 7400000, guid: 59bedc919c25ebb49ac490c23f651577, type: 2}
+      position: {x: 0, y: 0, z: 0}
+      flip: 0
+      applyMotion: 1
+      destination: {x: 10.83, y: 1.88, z: 0}
+      travelTime: 2
+      loop: 0
+      stopAtEnd: 1
+      stopAtStep: 0
+      playbackSpeed: 2
+      waitForEnd: 1
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 1
+    nextStep: 10
+  - stepType: 0
+    dialogues:
+    - text: Thanks! I sure would like to have a look at the surroundings one of these
+        days, and since you seem like a nice guy I wouldn't be against you showing
+        me around.
+      italic: 0
+    - text: How does next monday evening sound? It's right after my Zumba class.
+      italic: 0
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 1
+    dialogues: []
+    choices:
+    - choiceText: That sounds like a wonderful idea. I'll be sure to be on my best
+        behaviour! Hahaha
+      minMood: 75
+      maxMood: 100
+      overrideMoodChange: 1
+      moodChange: 25
+      overrideNextStep: 1
+      nextStep: 10
+    - choiceText: Ahh I wish I could but I work late next monday!
+      minMood: 0
+      maxMood: 75
+      overrideMoodChange: 0
+      moodChange: 0
+      overrideNextStep: 0
+      nextStep: 0
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 0
+    dialogues:
+    - text: Aww that's a shame! I still have to greet many new neighbours so don't
+        worry about it!
+      italic: 0
+    - text: See you later alligator! Hahaha
+      italic: 0
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 1
+    dialogues: []
+    choices:
+    - choiceText: In a while crocodile.
+      minMood: 0
+      maxMood: 100
+      overrideMoodChange: 1
+      moodChange: 10
+      overrideNextStep: 0
+      nextStep: 0
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 2
+    dialogues: []
+    choices: []
+    animations:
+    - mainCharacter: 0
+      animationClip: {fileID: 7400000, guid: 5abc83609e3640846ae44659c025f3ea, type: 2}
+      position: {x: 7.73, y: -1.08, z: 0}
+      flip: 1
+      applyMotion: 1
+      destination: {x: 40.6, y: 1.93, z: 0}
+      travelTime: 4
+      loop: 0
+      stopAtEnd: 1
+      stopAtStep: 0
+      playbackSpeed: 1
+      waitForEnd: 1
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 5
+    dialogues: []
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 2957300377160679446, guid: 574c592c5db4181458b494f8553cd32d, type: 3}
+    overrideNextStep: 0
+    nextStep: 0
+  moodChange: 0
+  requireInput: 0
+  nbTimes: 1
+  requiredEvents: []
+  conditions: 000000010000

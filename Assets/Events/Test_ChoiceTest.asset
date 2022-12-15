@@ -1,0 +1,163 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e97adc356fd2a774bbde615dfe3b29b0, type: 3}
+  m_Name: Test_ChoiceTest
+  m_EditorClassIdentifier: 
+  steps:
+  - stepType: 0
+    dialogues:
+    - Bonjour
+    choices:
+    - choiceText: Allo
+      minMood: 0
+      maxMood: 100
+      overrideMoodChange: 0
+      moodChange: 0
+      overrideNextStep: 0
+      nextStep: 0
+    - choiceText: Salut
+      minMood: 0
+      maxMood: 100
+      overrideMoodChange: 0
+      moodChange: 0
+      overrideNextStep: 0
+      nextStep: 0
+    - choiceText: Bonjour
+      minMood: 0
+      maxMood: 100
+      overrideMoodChange: 0
+      moodChange: 0
+      overrideNextStep: 0
+      nextStep: 0
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 0
+      spawnIndex: 0
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 1
+    dialogues: []
+    choices:
+    - choiceText: Allo
+      minMood: 0
+      maxMood: 100
+      overrideMoodChange: 0
+      moodChange: 0
+      overrideNextStep: 0
+      nextStep: 0
+    - choiceText: Salut
+      minMood: 0
+      maxMood: 100
+      overrideMoodChange: 0
+      moodChange: 0
+      overrideNextStep: 0
+      nextStep: 0
+    - choiceText: Bonjour
+      minMood: 0
+      maxMood: 100
+      overrideMoodChange: 0
+      moodChange: 0
+      overrideNextStep: 0
+      nextStep: 0
+    - choiceText: Au revoir
+      minMood: 0
+      maxMood: 100
+      overrideMoodChange: 0
+      moodChange: 0
+      overrideNextStep: 0
+      nextStep: 0
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 0
+      spawnIndex: 0
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 0
+    dialogues:
+    - Comment vas-tu?
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 0
+      spawnIndex: 0
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 1
+    dialogues: []
+    choices:
+    - choiceText: Bien
+      minMood: 0
+      maxMood: 100
+      overrideMoodChange: 0
+      moodChange: 0
+      overrideNextStep: 0
+      nextStep: 0
+    - choiceText: Mal
+      minMood: 0
+      maxMood: 100
+      overrideMoodChange: 0
+      moodChange: 0
+      overrideNextStep: 1
+      nextStep: 6
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 0
+      spawnIndex: 0
+    customStep: {fileID: 0}
+    overrideNextStep: 1
+    nextStep: 5
+  - stepType: 0
+    dialogues:
+    - Cool ca va bien!
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 0
+      spawnIndex: 0
+    customStep: {fileID: 0}
+    overrideNextStep: 1
+    nextStep: 7
+  - stepType: 0
+    dialogues:
+    - "Desol\xE9 ca va mal"
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 0
+      spawnIndex: 0
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 0
+    dialogues: []
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  moodChange: 0
+  requireInput: 1
+  nbTimes: 1
+  conditions: 00000000000000

@@ -1,0 +1,289 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e97adc356fd2a774bbde615dfe3b29b0, type: 3}
+  m_Name: Main_DadCall
+  m_EditorClassIdentifier: 
+  steps:
+  - stepType: 3
+    dialogues: []
+    choices: []
+    animations: []
+    sounds:
+    - audioClip: {fileID: 8300000, guid: 61453fa33f1cda849af4a04535b8f073, type: 3}
+      volume: 1
+      loop: 1
+      stopAtEnd: 0
+      stopAtStep: 2
+      waitForEnd: 1
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 2
+    dialogues: []
+    choices: []
+    animations:
+    - mainCharacter: 1
+      animationClip: {fileID: 7400000, guid: e65f2570ffc33fc46ba47a41b6def8b2, type: 2}
+      position: {x: 0, y: 0, z: 0}
+      flip: 0
+      applyMotion: 0
+      destination: {x: 0, y: 0, z: 0}
+      travelTime: 1
+      loop: 0
+      stopAtEnd: 1
+      stopAtStep: 0
+      playbackSpeed: 1
+      waitForEnd: 1
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 2
+    dialogues: []
+    choices: []
+    animations:
+    - mainCharacter: 1
+      animationClip: {fileID: 7400000, guid: 92894bc5d13efdb4f8c070c51be29baa, type: 2}
+      position: {x: 0, y: 0, z: 0}
+      flip: 0
+      applyMotion: 0
+      destination: {x: 0, y: 0, z: 0}
+      travelTime: 1
+      loop: 1
+      stopAtEnd: 1
+      stopAtStep: 14
+      playbackSpeed: 1
+      waitForEnd: 0
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 0
+    dialogues:
+    - text: Hi! It's your dad, but you already know that don't you.
+      italic: 0
+    - text: You haven't called me recently, what gives?
+      italic: 0
+    - text: ' I haven''t had any news from you for a long time...'
+      italic: 0
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 1
+    dialogues: []
+    choices:
+    - choiceText: ...
+      minMood: 0
+      maxMood: 100
+      overrideMoodChange: 0
+      moodChange: 0
+      overrideNextStep: 0
+      nextStep: 0
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 0
+    dialogues:
+    - text: Err... Hello?
+      italic: 0
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 1
+    dialogues: []
+    choices:
+    - choiceText: Oh sorry, I was lost in thought. Sorry about not calling you, dad.
+      minMood: 0
+      maxMood: 100
+      overrideMoodChange: 0
+      moodChange: 0
+      overrideNextStep: 0
+      nextStep: 0
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 1
+    dialogues: []
+    choices:
+    - choiceText: I... just wasn't really all there.
+      minMood: 0
+      maxMood: 100
+      overrideMoodChange: 0
+      moodChange: 0
+      overrideNextStep: 0
+      nextStep: 0
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 0
+    dialogues:
+    - text: Well... I just wanted you to know that...
+      italic: 0
+    - text: I mean since the... accident with...
+      italic: 0
+    - text: You know what I am talking about, I don't have to spell it out!
+      italic: 0
+    - text: It's been the same for pretty much everyone, you're not the only one
+        going through a rough patch
+      italic: 0
+    - text: You know I'm not good with that sort of thing, son.
+      italic: 0
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 1
+    dialogues: []
+    choices:
+    - choiceText: Well, that's for sure.
+      minMood: 0
+      maxMood: 100
+      overrideMoodChange: 0
+      moodChange: 0
+      overrideNextStep: 0
+      nextStep: 0
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 0
+    dialogues:
+    - text: Haha, yeah!
+      italic: 0
+    - text: Anyway...
+      italic: 0
+    - text: 'I just wanted to call you to know how you''re going buddy. '
+      italic: 0
+    - text: Don't forget I love you very very much!
+      italic: 0
+    - text: So don't be shy, ask us if you ever want anything.
+      italic: 0
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 1
+    dialogues: []
+    choices:
+    - choiceText: Thanks for calling dad, means a lot.
+      minMood: 60
+      maxMood: 100
+      overrideMoodChange: 1
+      moodChange: 20
+      overrideNextStep: 1
+      nextStep: 13
+    - choiceText: Thanks but I'd rather not talk about it for now.
+      minMood: 0
+      maxMood: 60
+      overrideMoodChange: 1
+      moodChange: -10
+      overrideNextStep: 1
+      nextStep: 14
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 14
+  - stepType: 0
+    dialogues:
+    - text: I am glad to hear at least a few words from you.
+      italic: 0
+    - text: Take it easy will you? Love you! Dad, out.
+      italic: 0
+    - text: '*hang up the phone*'
+      italic: 1
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 1
+    nextStep: 15
+  - stepType: 0
+    dialogues:
+    - text: That's understable I guess...
+      italic: 0
+    - text: Anyway... don't forget you can call me anytime.
+      italic: 0
+    - text: Take care sonny. Dad, out.
+      italic: 0
+    - text: '*hang up the phone*'
+      italic: 1
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  moodChange: 0
+  requireInput: 0
+  nbTimes: 1
+  requiredEvents: []
+  conditions: 000000010000

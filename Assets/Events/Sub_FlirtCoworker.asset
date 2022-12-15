@@ -1,0 +1,196 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e97adc356fd2a774bbde615dfe3b29b0, type: 3}
+  m_Name: Sub_FlirtCoworker
+  m_EditorClassIdentifier: 
+  steps:
+  - stepType: 5
+    dialogues: []
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 8652244538480203515, guid: f81a3b4badb767343866ed268659cf49, type: 3}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 0
+    dialogues:
+    - text: hi there!
+      italic: 0
+    - text: You look like you're going better these days, what's up?
+      italic: 0
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 1
+    dialogues: []
+    choices:
+    - choiceText: Thanks! You're looking great as always too!
+      minMood: 60
+      maxMood: 100
+      overrideMoodChange: 0
+      moodChange: 0
+      overrideNextStep: 0
+      nextStep: 0
+    - choiceText: Hi, I try my best to look presentable! Hahaha
+      minMood: 0
+      maxMood: 100
+      overrideMoodChange: 0
+      moodChange: 0
+      overrideNextStep: 0
+      nextStep: 0
+    - choiceText: Are you talking to me?
+      minMood: 0
+      maxMood: 20
+      overrideMoodChange: 0
+      moodChange: 0
+      overrideNextStep: 1
+      nextStep: 6
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 0
+    dialogues:
+    - text: 'You know, my friends and I are going to grab a drink after work today,
+
+        Would
+        you like to come with us?'
+      italic: 0
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 69
+  - stepType: 1
+    dialogues:
+    - text: 
+      italic: 0
+    - text: 
+      italic: 0
+    choices:
+    - choiceText: I'm really sorry, but I'm not really in the mood for that today.
+      minMood: 0
+      maxMood: 55
+      overrideMoodChange: 0
+      moodChange: 0
+      overrideNextStep: 0
+      nextStep: 0
+    - choiceText: I'd really love to but I already had something planned for tonight.
+        I'll be sure to invite you next time I go!
+      minMood: 55
+      maxMood: 100
+      overrideMoodChange: 0
+      moodChange: 0
+      overrideNextStep: 0
+      nextStep: 0
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 0
+    dialogues:
+    - text: That's unfortunate.
+      italic: 0
+    - text: I'll be patiently waiting for next time then!
+      italic: 0
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 1
+    nextStep: 9
+  - stepType: 0
+    dialogues:
+    - text: No, I'm talking to the guy behind you...
+      italic: 0
+    - text: Yes, I'm talking to you silly! Hahaha
+      italic: 0
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 1
+    dialogues: []
+    choices:
+    - choiceText: That's kind of out of the blue, isn't it? but maybe next time.
+      minMood: 0
+      maxMood: 100
+      overrideMoodChange: 1
+      moodChange: 35
+      overrideNextStep: 0
+      nextStep: 0
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 0
+    dialogues:
+    - text: I'll be waiting for your invitation then! Hahaha
+      italic: 0
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 5
+    dialogues: []
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 8500217002978719945, guid: 1ae42c1870e2ea74aa7e3b48be3b312b, type: 3}
+    overrideNextStep: 0
+    nextStep: 0
+  moodChange: 15
+  requireInput: 0
+  nbTimes: 1
+  requiredEvents: []
+  conditions: 010000010000

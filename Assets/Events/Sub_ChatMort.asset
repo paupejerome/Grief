@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e97adc356fd2a774bbde615dfe3b29b0, type: 3}
+  m_Name: Sub_ChatMort
+  m_EditorClassIdentifier: 
+  steps:
+  - stepType: 0
+    dialogues:
+    - text: There is a bad smell in the air... Wonder where it's coming from?
+      italic: 1
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 1
+    dialogues: []
+    choices:
+    - choiceText: Let's search around for where it's coming from.
+      minMood: 0
+      maxMood: 100
+      overrideMoodChange: 0
+      moodChange: 0
+      overrideNextStep: 0
+      nextStep: 0
+    - choiceText: It's better to not always be curious, bad smell means bad origin.
+      minMood: 0
+      maxMood: 100
+      overrideMoodChange: 1
+      moodChange: 2
+      overrideNextStep: 1
+      nextStep: 4
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 0
+    dialogues:
+    - text: A stray cat, probably starved to death too, hence the smell.
+      italic: 1
+    - text: There's no such thing as fairness in this world it seems, every good
+        thing comes to pass too quickly
+      italic: 1
+    - text: ...
+      italic: 0
+    - text: Just like you...
+      italic: 0
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  moodChange: -8
+  requireInput: 1
+  nbTimes: 1
+  requiredEvents: []
+  conditions: 000000000000

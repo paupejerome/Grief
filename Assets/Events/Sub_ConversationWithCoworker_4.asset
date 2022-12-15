@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e97adc356fd2a774bbde615dfe3b29b0, type: 3}
+  m_Name: Sub_ConversationWithCoworker_4
+  m_EditorClassIdentifier: 
+  steps:
+  - stepType: 5
+    dialogues: []
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 1357755299682595957, guid: 5adc88c503ca963418f09abd23439071, type: 3}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 0
+    dialogues:
+    - text: Hey young'un, I hope you're feeling better?
+      italic: 0
+    - text: I'm gonna get married soon, I just want you to know you are invited at
+        my wedding!
+      italic: 0
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 1
+    dialogues: []
+    choices:
+    - choiceText: Thanks... But I don't think I'll be available.
+      minMood: 0
+      maxMood: 100
+      overrideMoodChange: 1
+      moodChange: -10
+      overrideNextStep: 1
+      nextStep: 5
+    - choiceText: Really!? Congratulations man! I'll make time whenever for you.
+      minMood: 0
+      maxMood: 100
+      overrideMoodChange: 0
+      moodChange: 0
+      overrideNextStep: 0
+      nextStep: 0
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 0
+    dialogues:
+    - text: I will explain all about it to you next week, we still have stuff to
+        plan. Talk to you later!
+      italic: 0
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 1
+    nextStep: 6
+  - stepType: 0
+    dialogues:
+    - text: ...
+      italic: 0
+    - text: I... haven't told you the time and date yet...
+      italic: 0
+    - text: Just tell me straightforward if you'd rather not come, It'll make things
+        easier next time.
+      italic: 0
+    - text: Well now I just look mean.
+      italic: 1
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 5
+    dialogues: []
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 3968479234180175178, guid: 8c541a5bb1b3c314ca7783cebfcdc28a, type: 3}
+    overrideNextStep: 0
+    nextStep: 0
+  moodChange: 12
+  requireInput: 0
+  nbTimes: 1
+  requiredEvents:
+  - {fileID: 11400000, guid: b49bbb14110922b4998872affd9ae2d5, type: 2}
+  conditions: 000001000000

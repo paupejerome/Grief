@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e97adc356fd2a774bbde615dfe3b29b0, type: 3}
+  m_Name: Main_Inheritance
+  m_EditorClassIdentifier: 
+  steps:
+  - stepType: 1
+    dialogues: []
+    choices:
+    - choiceText: Oh, a letter from the accounting firm?
+      minMood: 0
+      maxMood: 49
+      overrideMoodChange: 1
+      moodChange: 17
+      overrideNextStep: 0
+      nextStep: 0
+    - choiceText: Oh, a letter from the accounting firm?
+      minMood: 50
+      maxMood: 100
+      overrideMoodChange: 1
+      moodChange: -17
+      overrideNextStep: 1
+      nextStep: 3
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 0
+    dialogues:
+    - text: A letter from...
+      italic: 0
+    - text: "Heneritance Center\n69420 Avenue des \xC9corces\nMontr\xE9al QC P3N
+        1S3\n\n\t\t10011 Boulevard Trudeau\n\t\tMontr\xE9al QC V2G 1N0"
+      italic: 1
+    - text: Oh...
+      italic: 0
+    - text: You open the letter
+      italic: 1
+    - text: Sir,
+      italic: 0
+    - text: We are sorry for your loss. Your deceased family member has declared
+        you as their sole successor. Since the inheritance is of quite a substential
+        amount, we unfortunatly will require more extensive procedure. You can call
+        one of our agent so we can proceed to the transfer.
+      italic: 1
+    - text: 'Mr. Sparrow
+
+        (514)162-0088'
+      italic: 0
+    - text: Hahaha, I would prefer to not have lost you...
+      italic: 1
+    - text: At the very least, I this will help me financially.
+      italic: 1
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 1
+    nextStep: 4
+  - stepType: 0
+    dialogues:
+    - text: A letter from...
+      italic: 0
+    - text: "Heneritance Center\n69420 Avenue des \xC9corces\nMontr\xE9al QC P3N
+        1S3\n\n\t\t10011 Boulevard Trudeau\n\t\tMontr\xE9al QC V2G 1N0"
+      italic: 1
+    - text: Oh...
+      italic: 1
+    - text: You open the letter
+      italic: 0
+    - text: Sir,
+      italic: 1
+    - text: We are sorry for your loss. Your deceased family member has declared
+        you as their sole successor. Since the inheritance is riddled with debt,
+        we unfortunatly will require a more extensive procedure. You can call one
+        of our agent so we can proceed to the transfer to the bank.
+      italic: 1
+    - text: 'Mr. Sparrow
+
+        (514)162-0088'
+      italic: 1
+    - text: Hahaha, I would prefer to not have lost you...
+      italic: 1
+    - text: At least I can pay it off, I had savings put aside for this inevitable
+        letter.
+      italic: 1
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  moodChange: 15
+  requireInput: 0
+  nbTimes: 1
+  requiredEvents: []
+  conditions: 010000010000

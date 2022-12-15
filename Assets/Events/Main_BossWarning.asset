@@ -1,0 +1,174 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e97adc356fd2a774bbde615dfe3b29b0, type: 3}
+  m_Name: Main_BossWarning
+  m_EditorClassIdentifier: 
+  steps:
+  - stepType: 0
+    dialogues:
+    - text: Wait, i need to talk to you.
+      italic: 0
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 5
+    dialogues: []
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 7620365097293893443, guid: 594114d95c9498446885c23c063825f1, type: 3}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 0
+    dialogues:
+    - text: You must know why I wanted to talk to you?
+      italic: 0
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 1
+    dialogues:
+    - text: 
+      italic: 0
+    - text: 
+      italic: 0
+    - text: 
+      italic: 0
+    choices:
+    - choiceText: ...
+      minMood: 0
+      maxMood: 60
+      overrideMoodChange: 0
+      moodChange: 0
+      overrideNextStep: 0
+      nextStep: 0
+    - choiceText: No, I don't know.
+      minMood: 40
+      maxMood: 100
+      overrideMoodChange: 0
+      moodChange: 0
+      overrideNextStep: 0
+      nextStep: 0
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 0
+    dialogues:
+    - text: 'You don''t seem to be doing so great nowadays. I do hope you can get
+        that fixed as soon as possible
+
+        because management doesn''t tolerate
+        slowdowns.'
+      italic: 0
+    - text: There's really nothing I can do about it.
+      italic: 0
+    - text: You are my least performing employee.
+      italic: 0
+    - text: To have such a tendency for a small time I wouldn't say much, but this
+        has dragged for over the two work cycle and it is getting worse.
+      italic: 0
+    - text: If this tendency had lasted for a few days, I wouldn't have said anything
+        but this has been going on for far too long!
+      italic: 0
+    - text: You understand that I can't let that slide!
+      italic: 0
+    - text: "If your performance doesn't get better in a significative way over the
+        next few weeks, \nyou must understand than I will need to take the necessary
+        actions..."
+      italic: 0
+    - text: Are we clear?
+      italic: 0
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 1
+    dialogues: []
+    choices:
+    - choiceText: Yes boss.
+      minMood: 20
+      maxMood: 100
+      overrideMoodChange: 1
+      moodChange: -20
+      overrideNextStep: 0
+      nextStep: 0
+    - choiceText: I will try my best
+      minMood: 15
+      maxMood: 100
+      overrideMoodChange: 1
+      moodChange: -15
+      overrideNextStep: 0
+      nextStep: 0
+    - choiceText: Sorry for my recent lack of initiative. I am already working on
+        giving you better results!
+      minMood: 80
+      maxMood: 100
+      overrideMoodChange: 1
+      moodChange: -5
+      overrideNextStep: 0
+      nextStep: 0
+    - choiceText: ...
+      minMood: 0
+      maxMood: 20
+      overrideMoodChange: 0
+      moodChange: 0
+      overrideNextStep: 0
+      nextStep: 0
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 5
+    dialogues: []
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 688310269392284079, guid: a60096e20bdb7534bb5b43d70d98d3f7, type: 3}
+    overrideNextStep: 0
+    nextStep: 0
+  moodChange: 0
+  requireInput: 0
+  nbTimes: 1
+  requiredEvents: []
+  conditions: 010000010000

@@ -1,0 +1,147 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e97adc356fd2a774bbde615dfe3b29b0, type: 3}
+  m_Name: END_BAD
+  m_EditorClassIdentifier: 
+  steps:
+  - stepType: 2
+    dialogues: []
+    choices: []
+    animations:
+    - mainCharacter: 1
+      animationClip: {fileID: 7400000, guid: 59bedc919c25ebb49ac490c23f651577, type: 2}
+      position: {x: 0, y: 0, z: 0}
+      flip: 0
+      applyMotion: 1
+      destination: {x: -5.39, y: -4.65, z: 0}
+      travelTime: 2
+      loop: 0
+      stopAtEnd: 1
+      stopAtStep: 0
+      playbackSpeed: 1
+      waitForEnd: 1
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 0
+    dialogues:
+    - text: ...
+      italic: 1
+    - text: ...
+      italic: 1
+    - text: Man...
+      italic: 1
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 2
+    dialogues: []
+    choices: []
+    animations:
+    - mainCharacter: 1
+      animationClip: {fileID: 7400000, guid: 59bedc919c25ebb49ac490c23f651577, type: 2}
+      position: {x: 0, y: 0, z: 0}
+      flip: 0
+      applyMotion: 1
+      destination: {x: 2.96, y: -2.79, z: 0}
+      travelTime: 2
+      loop: 0
+      stopAtEnd: 1
+      stopAtStep: 0
+      playbackSpeed: 1
+      waitForEnd: 1
+    - mainCharacter: 1
+      animationClip: {fileID: 7400000, guid: 58a14e912fc81694ca404a03c9e82f50, type: 2}
+      position: {x: 0, y: 0, z: 0}
+      flip: 0
+      applyMotion: 0
+      destination: {x: 0, y: 0, z: 0}
+      travelTime: 1
+      loop: 0
+      stopAtEnd: 1
+      stopAtStep: 0
+      playbackSpeed: 1
+      waitForEnd: 1
+    - mainCharacter: 1
+      animationClip: {fileID: 7400000, guid: 16ca4c142bcc7cf42b1b6f520b7a96d2, type: 2}
+      position: {x: 0, y: 0, z: 0}
+      flip: 0
+      applyMotion: 0
+      destination: {x: 0, y: 0, z: 0}
+      travelTime: 1
+      loop: 1
+      stopAtEnd: 1
+      stopAtStep: 0
+      playbackSpeed: 1
+      waitForEnd: 1
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 0
+    dialogues:
+    - text: ...
+      italic: 1
+    - text: I don't want to get up.
+      italic: 1
+    - text: I don't want to do anything.
+      italic: 1
+    - text: What's the point of going to work, then coming home, just to go back
+        to work and then head home all to go back to work, then coming home, just
+        to go back to work and then head home all to go back to work, then coming
+        home, just to go back to work and then head home all to go back to work,
+        then coming home, just to go back to work and then head home all to go back
+        to work...
+      italic: 1
+    - text: Hhhhhh...
+      italic: 1
+    - text: If only you were there with me, you would just laugh it off and brighten
+        the day with your smile.
+      italic: 1
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 0}
+    overrideNextStep: 0
+    nextStep: 0
+  - stepType: 5
+    dialogues: []
+    choices: []
+    animations: []
+    sounds: []
+    changeScene:
+      sceneIndex: 2
+      spawnIndex: 1
+    customStep: {fileID: 567201066232133527, guid: f47b1a9728eaa9e48ba8dce317afbb03, type: 3}
+    overrideNextStep: 0
+    nextStep: 0
+  moodChange: 0
+  requireInput: 0
+  nbTimes: 1
+  requiredEvents: []
+  conditions: 000000010000
